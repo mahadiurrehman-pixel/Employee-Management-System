@@ -158,7 +158,7 @@ Through this project I learned:
 
 GitHub: https://github.com/mahadiurrehman-pixel
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/mahadi-ur-rehman-siddiqui-139b93386
 
 ---
 
