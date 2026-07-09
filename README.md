@@ -134,11 +134,7 @@ Through this project I learned:
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of your application here.
-
----
 
 ## 🔮 Future Improvements
 
@@ -160,7 +156,7 @@ Add screenshots of your application here.
 - AI & NLP Enthusiast
 - Business Information Technology Student
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/mahadiurrehman-pixel
 
 LinkedIn: https://linkedin.com/in/your-profile
 
